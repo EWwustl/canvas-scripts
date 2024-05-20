@@ -1,3 +1,7 @@
+CanvasSettings.py
+*.csv
+example_result_screenshot.png
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
